@@ -1,0 +1,4 @@
+container:
+  image: nginxdemos/hello:latest
+
+replicaCount: 3

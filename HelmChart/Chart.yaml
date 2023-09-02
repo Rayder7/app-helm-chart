@@ -1,0 +1,16 @@
+apiVersion  : V2
+name        : app-Helm-Chart
+description : test work
+type        : application
+version     : 0.1.0
+appVersion  : "1.0.0"
+
+keywords:
+  - apache
+  - http
+  - https
+  - denisastahov
+
+maintainers:
+  - name : Aleksanr Mochalin
+    email: ch.l.rayder@gmail.com
